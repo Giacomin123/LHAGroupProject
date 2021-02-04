@@ -29,7 +29,7 @@ import java.io.*;
 			    grade3 = g3;
 			    GPA = gpa;
 		   }
-		   //hi
+		   //h
 		   public String getFirstName() {
 				return firstName;
 			}
